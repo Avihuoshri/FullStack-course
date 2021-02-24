@@ -1,3 +1,3 @@
-# Eduonix Full stack course
+# Udemy Full stack course
 
  
